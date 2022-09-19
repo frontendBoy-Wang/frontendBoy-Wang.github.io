@@ -105,4 +105,7 @@ theme: aurora
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: 'git'
+  repo: https://github.com/frontendBoy-Wang/frontendBoy-Wang.github.io.git
+  branch: master
+
